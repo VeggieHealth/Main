@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="20dp"
+    android:background="@drawable/bgresult"
+    tools:context=".ui.result.ResultActivity">
+
+    <!-- TextView for Result -->
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="Your Result"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <!-- ImageView for Trophy -->
+    <ImageView
+        android:id="@+id/ivTrophy"
+        android:layout_width="259dp"
+        android:layout_height="361dp"
+        android:contentDescription="image" />
+
+    <!-- TextView for Congratulations -->
+    <TextView
+        android:id="@+id/tvCongratulations"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="bold"/>
+
+    <!-- TextView for Score -->
+    <TextView
+        android:id="@+id/tv_score"
+        android:layout_width="wrap_content"
+        android:layout_height="59dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        tools:text="Your Score is 9 out of 10" />
+
+    <!-- Button for Reset -->
+    <Button
+        android:id="@+id/button_Reset"
+        android:layout_width="328dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:backgroundTint="@color/green_2"
+        android:text="Reset Quiz"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        app:cornerRadius="10dp" />
+
+    <!-- Button for Finish -->
+    <Button
+        android:id="@+id/button_finish"
+        android:layout_width="328dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:backgroundTint="@color/green_2"
+        android:text="Finish"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        app:cornerRadius="10dp" />
+</LinearLayout>

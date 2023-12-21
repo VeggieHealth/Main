@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">VeggieHealth</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="veggie_health_mobile"> Veggie Health Mobile</string>
+    <string name="login">Login Your Account to start Application</string>
+    <string name="register">Register Your Account to start Application</string>
+    <string name="sign_in">Sign In</string>
+    <string name="didnt_register">Dont have an account?</string>
+    <string name="already_register">Already have an account?</string>
+    <string name="sign_up_login">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_person">Person</string>
+    <string name="logout">Log out</string>
+    <string name="greeting">Good Afternoon</string>
+    <string name="veggie_menu">LIST OF VEGGIE HEALTH</string>
+    <string name="welcome_text">Come on, understand the nutritional benefits of vegetables for your body with Veggie Health Mobile</string>
+    <string name="find_vegetables">Find Vegetables</string>
+    <string name="kenali_sayuran">Discover vegetables and know their benefits</string>
+    <string name="the_vegetables">The Vegetables</string>
+    <string name="desc_list_veg">Come on, get to know the various types of vegetables and their benefits for human health that we don\'t yet know about</string>
+    <string name="button_list">Go to list</string>
+    <string name="back">Back</string>
+
+    <string name="camera">Camera</string>
+    <string name="galery">Galery</string>
+    <string name="example_email">your_example@email.com</string>
+    <string name="example_name">Example Name</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wortel">Wortel</string>
+    <string name="deskripsi_detail">Deskripsi</string>
+    <string name="nutrisi">Nutrisi</string>
+    <string name="manfaat">Manfaat</string>
+    <string name="kcal">125 Kcal</string>
+    <string name="carbs">125g Carbs</string>
+    <string name="protenis">24g Proteins</string>
+    <string name="vitamin">Vitamin A</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Posuere lorem ipsum dolor sit amet consectetur adipiscing. Vel pretium lectus quam id leo in vitae turpis massa. Eu volutpat odio facilisis mauris sit amet.</string>
+    <string name="gallery">Galery</string>
+    <string name="scan">Scan</string>
+
+    <string name="guess">Tebak Sayur ini</string>
+    <string name="whats_vegetable">SAYUR APA INI</string>
+    <string name="question_mark">/?</string>
+    <string name="correct">Selamat!! Jawaban Anda Benar</string>
+    <string name="wrong">Mohon Maaf, Jawaban Anda Salah</string>
+
+    <string name="retry">Coba Lagi</string>
+    <string name="textscan1">Scan your type of vegetables</string>
+    <string name="textscan2">hello friends, dont hesitate to get to know the types and benefits of vegetables that we dont know more about</string>
+
+    <string name="screentitle1">Come on, Get to Know Veggie Health</string>
+    <string name="screentitle2">Is my image guess correct?</string>
+    <string name="screentitle3">Scan a picture of your vegetables</string>
+    <string name="screenteks1">With the Veggie Health application, we know the types and benefits of vegetables for our bodys health</string>
+    <string name="screenteks2">With the picture guessing quiz, we can improve our knowledge and language skills and develop cognitive skills</string>
+    <string name="screenteks3">in this application, we can detect a vegetable that we know</string>
+    <string name="getstarted">Get Started</string>
+    <string name="your_identity">Your Identity</string>
+</resources>
