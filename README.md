@@ -2,7 +2,7 @@
 # Bangkit Capstone Project
 This is repository aplication of Yourney APP and Web
 # Our Design app
-[[![figma](https://img.shields.io/badge/Figma-Our%20Design-success)](https://www.figma.com/file/hrumdQX8mAX0vLtnFkMo6G/Untitled?type=design&node-id=10-2&mode=design&t=HHBd3Zd1pof5dOQ6-0)
+[![figma](https://img.shields.io/badge/Figma-Our%20Design-success)](https://www.figma.com/file/hrumdQX8mAX0vLtnFkMo6G/Untitled?type=design&node-id=10-2&mode=design&t=HHBd3Zd1pof5dOQ6-0)
 # Our Member
 |            Member           | Student ID |          Path        |
 | :-------------------------: | :--------: | :------------------: |
