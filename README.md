@@ -10,12 +10,12 @@ This is repository of our resource for VeggieHealth Application
   - Benefits of the Vegetables
 - Quiz About Vegetables
 # Our Member
-|            Member           | Student ID  |        Path          |                        GitHub Link                    |
-| :-------------------------: | :----------:| :------------------: |  :--------------------------------------------------: |
-|       Kalistus Alvino       | A239BSY2127 | Android Development  |  [Kalistus Alvino](https://github.com/KalistusAlvino) |
-|    Dion Defindra Dinatha    | A198BSY2367 | Android Development  |                                                        |
+|            Member           | Student ID  |        Path          |                        GitHub Link                          |                            Linkedin
+| :-------------------------: | :----------:| :------------------: |  :---------------------------------------------------------:| :---------------------------------------------------------:|
+|       Kalistus Alvino       | A239BSY2127 | Android Development  |  [Kalistus Alvino](https://github.com/KalistusAlvino)       | [Kalistus Alvino](https://www.linkedin.com/in/kalistus-alvino-1b365424a)
+|    Dion Defindra Dinatha    | A198BSY2367 | Android Development  |                                                             |
 |   Yediza Rein Sahupala      | M239BSY0163 |  Machine Learning    |  [YedizaReinSahupala](https://github.com/YedizaReinSahupala)|
-|    Aditya Difa Amanullah    | M297BSY0937 |  Machine Learning    |                                                       |
-|    Nicholas Marcell Kusumo  | M239BSY0874 |  Machine Learning    |                                                       |
-|  Muhammad Ahnaf Ardiansyah  | C297BSY3918 |   Cloud Computing    |                                                       |
-|     Brillian Cahya Dewa     | C297BSY4156 |   Cloud Computing    |                                                       |
+|    Aditya Difa Amanullah    | M297BSY0937 |  Machine Learning    |                                                             |
+|    Nicholas Marcell Kusumo  | M239BSY0874 |  Machine Learning    |                                                             |
+|  Muhammad Ahnaf Ardiansyah  | C297BSY3918 |   Cloud Computing    |                                                             |
+|     Brillian Cahya Dewa     | C297BSY4156 |   Cloud Computing    |                                                             |
