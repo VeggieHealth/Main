@@ -16,6 +16,6 @@ This is repository of our resource for VeggieHealth Application
 |    Dion Defindra Dinatha    | A198BSY2367 | Android Development  |                                                             |
 |   Yediza Rein Sahupala      | M239BSY0163 |  Machine Learning    |  [YedizaReinSahupala](https://github.com/YedizaReinSahupala)|
 |    Aditya Difa Amanullah    | M297BSY0937 |  Machine Learning    |  [AdityaDifa](https://github.com/AdityaDifa)                | [Aditya Difa A](https://www.linkedin.com/in/aditya-difa-59901b193/)
-|    Nicholas Marcell Kusumo  | M239BSY0874 |  Machine Learning    |  [Nmk3212](https://github.com/Nmk3212)                      |
+|    Nicholas Marcell Kusumo  | M239BSY0874 |  Machine Learning    |  [Nmk3212](https://github.com/Nmk3212)                      | [Nicholas Marcell Kusumo](https://www.linkedin.com/in/nicholas-marcell-kusumo-9197b7296/)
 |  Muhammad Ahnaf Ardiansyah  | C297BSY3918 |   Cloud Computing    |  [Muhammad Ahnaf](https://github.com/muhammadahnaf24)       |
 |     Brillian Cahya Dewa     | C297BSY4156 |   Cloud Computing    |                                                             |
