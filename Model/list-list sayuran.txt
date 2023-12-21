@@ -1,0 +1,17 @@
+list-list sayuran:
+-Bean (kacang polong)
+-Bitter_Groud (Pare)
+-Bottle_Gourd (labu air)
+-Brinjal(Terong)
+-Broccoli(Brokoli)
+-Cabbage (Kol)
+-Capiscium(paprika)
+-Carrot(wortel)
+-Cauliflower(kembang kol)
+-Cucumber(ketimun)
+-Papaya(pepaya muda)
+-Potato (kentang)
+-pumpkin(labu kuning)
+-radish (lobak)
+-Tomato (tomat)
+
