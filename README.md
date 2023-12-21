@@ -7,8 +7,8 @@ This is repository of our resource for VeggieHealth Application
 |            Member           | Student ID  |        Path          |                        GitHub Link                    |
 | :-------------------------: | :----------:| :------------------: |  :--------------------------------------------------: |
 |       Kalistus Alvino       | A239BSY2127 | Android Development  |  [Kalistus Alvino](https://github.com/KalistusAlvino) |
-|    Dion Defindra Dinatha    | A198BSY2367 | Android Development  |  [YedizaReinSahupala](https://github.com/YedizaReinSahupala)|
-|   Yediza Rein Sahupala      | M239BSY0163 |  Machine Learning    |                                                       |
+|    Dion Defindra Dinatha    | A198BSY2367 | Android Development  |          |
+|   Yediza Rein Sahupala      | M239BSY0163 |  Machine Learning    |  [YedizaReinSahupala](https://github.com/YedizaReinSahupala)                                                     |
 |    Aditya Difa Amanullah    | M297BSY0937 |  Machine Learning    |                                                       |
 |    Nicholas Marcell Kusumo  | M239BSY0874 |  Machine Learning    |                                                       |
 |  Muhammad Ahnaf Ardiansyah  | C297BSY3918 |   Cloud Computing    |                                                       |
