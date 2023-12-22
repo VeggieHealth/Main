@@ -9,7 +9,7 @@ from werkzeug.utils import secure_filename
 app = Flask(__name__)
 CORS(app)
 
-model = load_model('veggiehealth_model_tf_origin_2.h5')
+model = load_model('veggiehealth_model.h5')
 
 def preprocess_image(img_data):
     img = image.load_img(io.BytesIO(img_data), target_size=(224, 224))
