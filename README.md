@@ -1,4 +1,4 @@
-![Logo Transparent white](https://storage.googleapis.com/userveggie-data/logo-veggie2.png)
+![Logo Transparent white](https://storage.googleapis.com/userveggie-data/logo-veggie3.png)
 # Bangkit Capstone Project
 This is repository of our resource for VeggieHealth Application
 # Our Design app
